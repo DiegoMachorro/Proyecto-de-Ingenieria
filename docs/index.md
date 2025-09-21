@@ -26,10 +26,10 @@
 
 <a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza Tarea</a>
 
-<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza 1</a>
+<a href="../docs/recursos/Pieza1.SLDPRT" target="_blank">Pieza 1</a>
 
-<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza 2</a>
+<a href="../docs/recursos/Pieza2.SLDPRT" target="_blank">Pieza 2</a>
 
-<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza 3</a>
+<a href="../docs/recursos/Pieza 3(3).SLDPRT" target="_blank">Pieza 3</a>
 
-<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza 4</a>
+<a href="../docs/recursos/Pieza 4.SLDPRT" target="_blank">Pieza 4</a>
