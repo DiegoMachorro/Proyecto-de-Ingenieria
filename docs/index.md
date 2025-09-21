@@ -24,4 +24,4 @@
 
 ## PIEZAS
 
-
+<a href="../docs/recursos/Syllabus.pdf" target="_blank">Pieza 1</a>
