@@ -24,4 +24,12 @@
 
 ## PIEZAS
 
+<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza Tarea</a>
+
 <a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza 1</a>
+
+<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza 2</a>
+
+<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza 3</a>
+
+<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza 4</a>
