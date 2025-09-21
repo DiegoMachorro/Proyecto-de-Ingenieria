@@ -51,5 +51,4 @@
 
 ---
 
-<img src="recursos/imgs/Yo 2.0.jpeg" alt="Diagrama del sistema" width="420">
 
