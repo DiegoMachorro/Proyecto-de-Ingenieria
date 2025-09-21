@@ -50,5 +50,3 @@
 <a href="../docs/recursos/Yo.jpeg" target="_blank">Evidencia del trabajo</a>
 
 ---
-
-
