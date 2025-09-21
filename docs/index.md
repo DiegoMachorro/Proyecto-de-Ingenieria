@@ -56,5 +56,5 @@
 
 ---
 
-![Diagrama del sistema](recursos/imgs/Yo 2.0.jpeg)
+<img src="recursos/imgs/idit.jpg" alt="Diagrama del sistema" width="420">
 
