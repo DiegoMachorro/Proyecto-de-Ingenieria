@@ -33,3 +33,7 @@
 <a href="../docs/recursos/Pieza 3(3).SLDPRT" target="_blank">Pieza 3</a>
 
 <a href="../docs/recursos/Pieza 4.SLDPRT" target="_blank">Pieza 4</a>
+
+<a href="../docs/recursos/Florero 2.png" target="_blank">Pieza 5</a>
+
+<a href="../docs/recursos/Florero 3.png" target="_blank">Pieza 6</a>
