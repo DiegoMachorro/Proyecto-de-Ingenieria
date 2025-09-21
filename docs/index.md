@@ -13,9 +13,9 @@
 ---
 
 
-<img src="archivos/imgs/idit.jpg" alt="Diagrama del sistema" width="420">
+<img src="recursos/imgs/idit.jpg" alt="Diagrama del sistema" width="420">
 
 
 ## DENTRO DE ESTE APARTADO SE ENCONTRARAN LOS TRABAJOS REALIZADOS DURANTE EL SEMESTRE
 
-<a href="../recursos/Syllabus.pdf" target="_blank">Syllabus</a>
+<a href="../recursos/archivos/Syllabus.pdf" target="_blank">Syllabus</a>
