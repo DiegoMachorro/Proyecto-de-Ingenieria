@@ -53,3 +53,8 @@
 <a href="../docs/recursos/Celular.jpeg" target="_blank">Porta celular</a>
 
 <a href="../docs/recursos/Yo.jpeg" target="_blank">Evidencia del trabajo</a>
+
+
+
+<img src="recursos/imgs/Yo 2.0.jpg" alt="Diagrama del sistema" width="420">
+
