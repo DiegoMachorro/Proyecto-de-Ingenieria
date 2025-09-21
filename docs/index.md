@@ -24,4 +24,4 @@
 
 ## PIEZAS
 
-<a href="../docs/recursos/Syllabus.pdf" target="_blank">Pieza 1</a>
+<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza 1</a>
