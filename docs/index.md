@@ -1,5 +1,7 @@
 # Proyecto de Ingeniería
 ## Diego Machorro Lucero
+
+- Nota: Esta página será mejorada y rediseñada con el paso del semestre.
   
 ## ABOUT
 
