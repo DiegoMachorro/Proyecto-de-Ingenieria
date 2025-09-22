@@ -3,7 +3,7 @@
   
 ## ABOUT
 
-<a href="../docs/recursos/Yo ese.png" target="_blank">¿Quién soy?</a>
+https://view.genially.com/68d08cfa32267797a50dc0f3/personal-branding-about
    
 ---
 
