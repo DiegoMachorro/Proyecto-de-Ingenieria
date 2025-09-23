@@ -3,7 +3,6 @@
   
 ## ABOUT
 
-https://view.genially.com/68d08cfa32267797a50dc0f3/personal-branding-about
 
 ---
 
