@@ -1,7 +1,5 @@
 # Proyecto de Ingeniería
 ## Diego Machorro Lucero
-
-- Nota: Esta página será mejorada y rediseñada con el paso del semestre.
   
 ## ABOUT
 
@@ -51,5 +49,4 @@ https://view.genially.com/68d08cfa32267797a50dc0f3/personal-branding-about
 
 <a href="../docs/recursos/Yo.jpeg" target="_blank">Evidencia del trabajo</a>
 
----
 
