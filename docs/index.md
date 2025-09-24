@@ -16,38 +16,20 @@ https://view.genially.com/68d08cfa32267797a50dc0f3/personal-branding-about
 ## SYLLABUS
 
 - Introducción a la materia de Proyecto de Ingeniería
-  
-<a href="../docs/recursos/Syllabus.pdf" target="_blank">Syllabus</a>
 
+https://drive.google.com/drive/folders/1S5LSn4yD73MioJqoT6fgS3_W5G9K9nhp?usp=sharing 
 
 ## PIEZAS
 
-- Capturas o archivos de las piezas realizadas en clase digitalmente.
-  
-<a href="../docs/recursos/Captura de pantalla 2025-09-20 143323.png" target="_blank">Pieza Tarea</a>
+- Dentro del programa de Solid Works, se realizaron múltiples piezas utilizando herramientas, desde la realización y diseño del plano 2d, hasta la extrusión a 3d.
 
-<a href="../docs/recursos/Pieza1.SLDPRT" target="_blank">Pieza 1</a>
-
-<a href="../docs/recursos/Pieza2.SLDPRT" target="_blank">Pieza 2</a>
-
-<a href="../docs/recursos/Pieza 3(3).SLDPRT" target="_blank">Pieza 3</a>
-
-<a href="../docs/recursos/Pieza 4.SLDPRT" target="_blank">Pieza 4</a>
-
-<a href="../docs/recursos/Florero 2.png" target="_blank">Pieza 5 (Florero Tarea - 1)</a>
-
-<a href="../docs/recursos/Florero 3.png" target="_blank">Pieza 6 (Florero Tarea - 2)</a>
-
+https://drive.google.com/drive/folders/1ixU7YOdn1ACoLv0Xm-C8UufuSTS0xqX8?usp=sharing
 
 ## CLASE PRÁCTICA - PORTACELULARES DE MADERA
 
-- Proceso de cortar madera durante la clase práctica, a fin de contruir un porta celulares.
+- Proceso de cortar madera durante la clase práctica, a fin de contruir un porta celulares, esto a través de distintas máquinas, como un taladro de banco, una lijadora y sierras.
 
-<a href="../docs/recursos/Madera.jpeg" target="_blank">Piezas de madera terminadas</a>
+https://drive.google.com/drive/folders/1YlRY52V-7o5nGNicw-yHsuWVsSM9VTEc?usp=sharing
 
-<a href="../docs/recursos/Porta.jpeg" target="_blank">Piezas esnambladas</a>
 
-<a href="../docs/recursos/Celular.jpeg" target="_blank">Porta celular</a>
-
-<a href="../docs/recursos/Yo.jpeg" target="_blank">Evidencia del trabajo</a>
 
