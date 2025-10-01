@@ -67,4 +67,6 @@ https://drive.google.com/drive/folders/1S5LSn4yD73MioJqoT6fgS3_W5G9K9nhp?usp=sha
 
 - Durante esta clase comenzamos a aprender a utilizar la herramienta del corte láser, a fin de crear o grabar distintas figuras
   
+<img src="recursos/imgs/Maquina.jpeg" alt="Diagrama del sistema" width="420">
 
+<img src="recursos/imgs/Maquina2.jpeg" alt="Diagrama del sistema" width="420">
