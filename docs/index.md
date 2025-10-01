@@ -22,8 +22,8 @@ https://drive.google.com/drive/folders/1S5LSn4yD73MioJqoT6fgS3_W5G9K9nhp?usp=sha
 ## PIEZAS
 
 - Dentro del programa de Solid Works, se realizaron múltiples piezas utilizando herramientas, desde la realización y diseño del plano 2d, hasta la extrusión a 3d.
-
-https://drive.google.com/drive/folders/1ixU7YOdn1ACoLv0Xm-C8UufuSTS0xqX8?usp=sharing
+  
+<img src="recursos/imgs/Pieza 1.png" alt="Diagrama del sistema" width="420">
 
 ## CLASE PRÁCTICA - PORTACELULARES DE MADERA
 
