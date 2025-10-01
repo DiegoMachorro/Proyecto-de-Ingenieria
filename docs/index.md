@@ -41,7 +41,13 @@ https://drive.google.com/drive/folders/1S5LSn4yD73MioJqoT6fgS3_W5G9K9nhp?usp=sha
 
 - Proceso de cortar madera durante la clase práctica, a fin de contruir un porta celulares, esto a través de distintas máquinas, como un taladro de banco, una lijadora y sierras.
 
-https://drive.google.com/drive/folders/1YlRY52V-7o5nGNicw-yHsuWVsSM9VTEc?usp=sharing
+<img src="recursos/imgs/Celular.jpeg" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/Madera.jpeg" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/Yo.jpeg" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/Porta.jpeg" alt="Diagrama del sistema" width="420">
 
 
 
