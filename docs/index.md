@@ -25,6 +25,18 @@ https://drive.google.com/drive/folders/1S5LSn4yD73MioJqoT6fgS3_W5G9K9nhp?usp=sha
   
 <img src="recursos/imgs/Pieza 1.png" alt="Diagrama del sistema" width="420">
 
+<img src="recursos/imgs/Pieza 2.png" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/Pieza 3.png" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/Pieza 4.png" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/Pieza2.png" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/Florero 2.png" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/Florero 3.png" alt="Diagrama del sistema" width="420">
+
 ## CLASE PRÁCTICA - PORTACELULARES DE MADERA
 
 - Proceso de cortar madera durante la clase práctica, a fin de contruir un porta celulares, esto a través de distintas máquinas, como un taladro de banco, una lijadora y sierras.
