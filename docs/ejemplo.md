@@ -1,9 +1,16 @@
-# 📚 Ejemplo de Documentación del Proyecto
+# Corte Láser
 
-> Plantilla genérica para documentar proyectos académicos o de ingeniería.  
-> Copia y adapta las secciones según tu necesidad.
-
+Se nos proporcionaron instrucciones e indicaciones para saber utilizar correctamente la máquina de corte láser, de este modo cada quien realizó un ensamble hecho a partir
+de un plano creado previamente en 2D en SolidWorks y guardado en formato DXF
 ---
+
+## Máquina de corte láser
+  
+<img src="recursos/imgs/Maquina.jpeg" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/Maquina2.jpeg" alt="Diagrama del sistema" width="420">
+
+
 
 ## 1) Resumen
 
