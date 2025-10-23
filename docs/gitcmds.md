@@ -1,6 +1,7 @@
-# 🚀 Comandos básicos de Git (primeros pasos)
+# Máquinas del IDIT
 
-En este curso solo usaremos los comandos esenciales de Git para trabajar con repositorios.
+En este apartado se mostraran los trabajos realizados en las máquinas del IDIT, junto con la evidencia fotogáfica del uso de las máquinas.
+
 
 ---
 
