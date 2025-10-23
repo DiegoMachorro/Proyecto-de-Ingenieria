@@ -1,4 +1,9 @@
-# Encabezados
+# Piezas en SolidWorks
+
+Dentro del programa de Solid Works, se realizaron múltiples piezas utilizando herramientas, desde la realización y diseño del plano 2d, hasta la extrusión a 3d.
+A continuación se mostrarán todas las piezas realizadas:
+
+
 
 ``` codigo
 # Título H1
