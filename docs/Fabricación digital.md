@@ -4,7 +4,9 @@
 
 ### Impresión 3D
 
-<img src="recursos/imgs/Impresión.jpeg" alt="Diagrama del sistema" width="420">
+<img src="recursos/imgs/Impresión.jpg" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/idit.jpg" alt="Diagrama del sistema" width="420">
 
 [Impresora 3D](https://drive.google.com/file/d/1c5k6kddiy7AdtZWRanwRqiJwIPVIjQDt/view?usp=drive_link)
 
