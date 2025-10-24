@@ -24,6 +24,7 @@ más tarde ser ensamblada con las demás.
 
 <img src="recursos/imgs/Barco corte láser.jpeg" alt="Diagrama del sistema" width="420">
 
+[Máquina de corte láser](https://drive.google.com/file/d/1BClgl9kDMbyKx0Dt_QMupxRSqQFuPCEq/view?usp=sharing)
 
 ### Grabado 
 
