@@ -15,7 +15,7 @@ de un plano creado previamente en 2D en SolidWorks y guardado en formato DXF
 
 <img src="recursos/imgs/Maquina2.jpeg" alt="Diagrama del sistema" width="420">
 
-Utilizando esta máquina, realizamos dos actividades:
+Utilizando esta máquina, se realizaron estas dos actividades:
 
 ### Corte láser
 
