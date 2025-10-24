@@ -10,12 +10,12 @@ de moldes ni procesos industriales tradicionales.
 
 - En clase, creamos un modelo desde cero utilizando SolidWorks o Blender, que más tarde imprimimos en una máquina 3D.
 
-<img src="recursos/imgs/amongus.png" alt="Diagrama del sistema" width="420">
+<img src="recursos/imgs/amongus.jpeg" alt="Diagrama del sistema" width="420">
 
 - Más tarde, a partir de una Inteligencia Artificial, generamos una imagen a partir de indicaciones que se le otorgaron. Seguido de esto, utilizando
 tecnología de una IA más avanzada, transformamos esta imagen a un modelo en 3D, mismo que fue impreso en la misma máquina.
 
-<img src="recursos/imgs/Cerbero.png" alt="Diagrama del sistema" width="420">
+<img src="recursos/Cerbero imp.jpeg" alt="Diagrama del sistema" width="420">
 
 ### Escaneo 3D
 
