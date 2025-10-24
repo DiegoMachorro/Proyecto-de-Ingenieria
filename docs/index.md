@@ -23,4 +23,5 @@
   
 - Como espero verme en 10 años es triunfando fuera del país, establecido en una empresa donde pueda trabajar haciendo algo que disfrute, pero sobre todo, que financieramente esté estable.
 
-<img src="recursos/imgs/Yo ese.jpg" alt="Diagrama del sistema" width="420">
+<img src="recursos/imgs/Yo 2.0.jpeg" alt="Diagrama del sistema" width="420">
+
