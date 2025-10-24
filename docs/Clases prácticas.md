@@ -18,4 +18,8 @@ Este proceso fue con la intención de realizar un porta celulares de madera.
 
 <img src="recursos/imgs/Yo.jpeg" alt="Diagrama del sistema" width="420">
 
+<img src="recursos/imgs/sierra.jpeg" alt="Diagrama del sistema" width="420">
 
+<img src="recursos/imgs/chispas.jpeg" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/doblez.jpeg" alt="Diagrama del sistema" width="420">
