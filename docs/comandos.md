@@ -8,7 +8,7 @@ A continuación se mostrarán todas las piezas realizadas:
 <img src="recursos/imgs/Pieza 1.png" alt="Diagrama del sistema" width="420">
 
 ## Pieza 2
-  
+
 <img src="recursos/imgs/Pieza 2.png" alt="Diagrama del sistema" width="420">
 
 ## Pieza 3
