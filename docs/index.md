@@ -1,9 +1,10 @@
-# About
-## Diego Machorro Lucero
+# Inicio
 
 <img src="recursos/imgs/idit.jpg" alt="Diagrama del sistema" width="420">
 
 ---
+
+## About - Diego Machorro Lucero
 
 ## ¿Quién soy?
 
