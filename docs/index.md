@@ -25,3 +25,6 @@
 
 <img src="recursos/imgs/Yo 2.0.jpeg" alt="Diagrama del sistema" width="420">
 
+### Syllabus
+
+[Syllabus](https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link)
