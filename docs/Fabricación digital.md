@@ -6,6 +6,7 @@
 
 <img src="recursos/imgs/Impresión.jpeg" alt="Diagrama del sistema" width="420">
 
+[Impresora 3D](https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link)
 
 - La impresión 3D es una tecnología que permite crear objetos físicos a partir de modelos digitales, capa por capa, utilizando materiales como plástico,
 metal o resina. Su potencial radica en la capacidad de fabricar piezas personalizadas, complejas y funcionales de forma rápida y económica, sin necesidad
