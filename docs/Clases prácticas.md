@@ -1,4 +1,4 @@
-# Máquinas del IDIT
+# Uso de maquinaria en el Instituto de Inovación Tecnológica
 
 En este apartado se mostraran los trabajos realizados en las máquinas del IDIT, junto con la evidencia fotogáfica del uso de las máquinas.
 
