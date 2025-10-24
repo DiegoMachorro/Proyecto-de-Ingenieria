@@ -10,6 +10,24 @@ de un plano creado previamente en 2D en SolidWorks y guardado en formato DXF
 
 <img src="recursos/imgs/Maquina2.jpeg" alt="Diagrama del sistema" width="420">
 
+Utilizando esta máquina, realizamos dos actividades:
+
+### Corte láser
+
+- Requería mayor potencia y menor velocidad, de tal manera que el láser fuera capaz de penetrar correctamente y cada figura fuera correctamente separada para
+más tarde ser ensamblada con las demás.
+
+<img src="recursos/imgs/Barco corte láser.jpeg" alt="Diagrama del sistema" width="420">
+
+
+### Grabado 
+
+<img src="recursos/imgs/vista 1.jpeg" alt="Diagrama del sistema" width="420">
+
+<img src="recursos/imgs/vista 2.jpeg" alt="Diagrama del sistema" width="420">
+
+-Por el contrario, esta opción requirió menor potencia pero mayor potencia, de este modo el láser tenía el calor suficiente para grabar y dejar una marca, pero no de cortar toda 
+la pieza.
 
 
 ## 1) Resumen
