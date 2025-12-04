@@ -5,29 +5,29 @@ A continuación se mostrarán todas las piezas realizadas:
 
 ## Pieza 1
   
-<img src="recursos/imgs/Pieza 1.png" alt="Diagrama del sistema" width="420">
+[Pieza 1]([https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1GMBlOc8xHObY8KD-FCoPkLazmST_wy9Y/view?usp=sharing))
 
 ## Pieza 2
 
-<img src="recursos/imgs/Pieza 2.png" alt="Diagrama del sistema" width="420">
+[Pieza 2]([https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1QVqBZsNb7u2-97Fv_KCmreRm41bJX9fZ/view?usp=drive_link))
 
 ## Pieza 3
-  
-<img src="recursos/imgs/Pieza 3.png" alt="Diagrama del sistema" width="420">
 
+[Pieza 3]([https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1MwfsTe0Voc_POp_JnvuqZrukOh3Eb9_E/view?usp=drive_link))
+  
 ## Pieza 4
   
-<img src="recursos/imgs/Pieza 4.png" alt="Diagrama del sistema" width="420">
+[Pieza 4]([https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1QOIayNIBNZNimkfBH0wyfjJlx7SJr53h/view?usp=drive_link))
 
 ## Pieza Tarea 1
   
-<img src="recursos/imgs/Pieza2.png" alt="Diagrama del sistema" width="420">
+[Tarea 1]([https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1IVO66Icl986ehAmrtqLRwavbg01vgRU6/view?usp=drive_link))
 
 ## Pieza tarea 2
 
-<img src="recursos/imgs/Florero 2.png" alt="Diagrama del sistema" width="420">
+[Tarea 2]([https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1ilkvA0wK99LwbMbI7vhEpOvIdOd6VUBw/view?usp=drive_link))
 
 ## Pieza tarea 3
 
-<img src="recursos/imgs/Florero 3.png" alt="Diagrama del sistema" width="420">
+[Tarea 3]([https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/19oGPXAOkGVKj4u98mtuEI26TF-knGsXy/view?usp=drive_link))
 
