@@ -1,7 +1,18 @@
 # Piezas en SolidWorks
 
-Dentro del programa de Solid Works, se realizaron múltiples piezas utilizando herramientas, desde la realización y diseño del plano 2d, hasta la extrusión a 3d.
-A continuación se mostrarán todas las piezas realizadas:
+El aprendizaje de SolidWorks puede entenderse como una progresión estructurada que conduce al dominio de una de las herramientas más influyentes en el ámbito del diseño asistido por computadora (CAD).
+
+## Etapas del uso de SolidWorks
+
+• 	Exploración inicial de la interfaz:
+El primer contacto con el programa implica familiarizarse con su entorno gráfico, menús y barras de herramientas. Esta etapa es esencial para adquirir fluidez en la navegación y en la selección de funciones.
+
+• 	Generación de planos técnicos:
+A continuación, de realizó elaboración de planos detallados, que incluyen cotas, vistas y especificaciones. Esta fase traduce el modelo digital en documentación técnica indispensable para la fabricación y comunicación entre equipos.
+
+• 	Construcción de modelos básicos:
+A partir de aquí, se desarrollan piezas simples mediante croquis en dos dimensiones que se transforman en modelos tridimensionales. Operaciones como la extrusión, la revolución o el corte permiten comprender los fundamentos del modelado paramétrico.
+
 
 ## Pieza 1
   
