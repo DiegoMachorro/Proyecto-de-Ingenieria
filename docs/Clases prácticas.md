@@ -1,22 +1,28 @@
 # Uso de maquinaria en el Instituto de Inovación Tecnológica
 
-En este apartado se mostraran los trabajos realizados en las máquinas del IDIT, junto con la evidencia fotogáfica del uso de las máquinas.
+Algunas clases de esta materia fueron dedicadas al uso de las máquinas pertenecientes al área del IDIT (Instituto de Diseño e Inovación Tecnológica), con el fin de aprender acerca de su uso, así como de las medidas y equipos requeridos para que puedan ser usadas de manera segura y eficiente. 
 
-Este proceso fue con la intención de realizar un porta celulares de madera.
+A continuación se mostrará evidencia de los trabajos realizados durante las clases pertenecientes.
 
-## Resultado de las piezas ya ensambladas
+## Clase 1
 
-[Vistazo al Portacelulares](https://drive.google.com/file/d/1jRYC30khusezmOPugcefotaPDTrVds07/view?usp=drive_link)
-
-## Evidencia del uso de la máquina
-
-[Maquinaria para cortar metal](https://drive.google.com/file/d/12SKJo0uVkXD61e62U94omhQ0wb_c-hVe/view?usp=drive_link)
+La primera sesión se dividió en dos partes, en la primera nos enfocamos en las máquinas hechas para trabajar madera, con las cuales hicimos un porta celulares de madera, al que más tarde añadimos un grabado usando una máquina de corte láser.
 
 [Proceso de cortar la madera](https://drive.google.com/file/d/17a_u_9F8YSRgXJ-ciQY64ZcRcjbkQ666/view?usp=drive_link)
+
+[Vistazo al Portacelulares](https://drive.google.com/file/d/1jRYC30khusezmOPugcefotaPDTrVds07/view?usp=drive_link)
 
 [Portacelulares grabado](https://drive.google.com/file/d/1o_An7_jJ_obeQ1ilSasZbL8gBAh3zrBl/view?usp=drive_link)
 
 [Proceso del grabado](https://drive.google.com/file/d/1fY6nW7cB6tCu08d5RK23-fBsMfy8_Xk5/view?usp=drive_link)
+
+Lo que sobró de la clase se empleó para aprender a manejar una máquina para cortar barras delgadas de metal (se planeaba que usáramos más máquinas, sin embargo no hubo suficiente tiempo).
+
+[Maquinaria para cortar metal](https://drive.google.com/file/d/12SKJo0uVkXD61e62U94omhQ0wb_c-hVe/view?usp=drive_link)
+
+## Clase 2
+
+Para la segunda clase, se nos enseñó a utilizar algunas máquinas para tratar láminas delgadas de metal, de tal modo que después pudimos fabricar una caja con estas herramientas.
 
 [Evidencia 1](https://drive.google.com/file/d/1Kw0ljyBW1w87cBFTNDm89ND7rAsGjZxF/view?usp=drive_link)
 
