@@ -6,9 +6,7 @@ Este proceso fue con la intención de realizar un porta celulares de madera.
 
 ## Resultado de las piezas ya ensambladas
 
-[Pieza 1]([https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1GMBlOc8xHObY8KD-FCoPkLazmST_wy9Y/view?usp=sharing))
-
-<img src="recursos/imgs/Celular.jpeg" alt="Diagrama del sistema" width="420">
+[Vistazo al Portacelulares]([[https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1GMBlOc8xHObY8KD-FCoPkLazmST_wy9Y/view?usp=sharing](https://drive.google.com/file/d/17vuGF9YsQjMqtZEaL_sB1aXqIN9cyh_y/view?usp=drive_link)))
 
 <img src="recursos/imgs/Porta.jpeg" alt="Diagrama del sistema" width="420">
 
