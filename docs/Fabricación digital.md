@@ -4,9 +4,6 @@
 
 ### Impresión 3D
 
-<img src="recursos/imgs/Impresión.jpeg" alt="Diagrama del sistema" width="420">
-
-
 [Máquina de Impresión 3D](https://drive.google.com/file/d/1elvsHZ0XV5xmgEb2ZoP-GKfdN0LrLZ3X/view?usp=drive_link)
 
 [Máquina de Impresión 3D](https://drive.google.com/file/d/1c5k6kddiy7AdtZWRanwRqiJwIPVIjQDt/view?usp=drive_link)
