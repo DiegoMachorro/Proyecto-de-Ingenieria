@@ -28,4 +28,5 @@ Este proceso fue con la intención de realizar un porta celulares de madera.
 
 [Evidencia 5](https://drive.google.com/file/d/1Q23OE27e3b7ojWuUXLk0JJALccQI2s38/view?usp=drive_link)
 
+[Caja terminada](https://drive.google.com/file/d/1PxFtNeKol2N6KPgb4vCgqLWxwR2wyoU3/view?usp=drive_link)
 
