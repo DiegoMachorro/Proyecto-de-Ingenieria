@@ -6,19 +6,17 @@ Este proceso fue con la intención de realizar un porta celulares de madera.
 
 ## Resultado de las piezas ya ensambladas
 
-[Vistazo al Portacelulares]([[https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1GMBlOc8xHObY8KD-FCoPkLazmST_wy9Y/view?usp=sharing](https://drive.google.com/file/d/17vuGF9YsQjMqtZEaL_sB1aXqIN9cyh_y/view?usp=drive_link)))
-
-
+[Vistazo al Portacelulares](https://drive.google.com/file/d/1jRYC30khusezmOPugcefotaPDTrVds07/view?usp=drive_link)
 
 ## Evidencia del uso de la máquina
 
-[Maquinaria para cortar metal]([[https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1GMBlOc8xHObY8KD-FCoPkLazmST_wy9Y/view?usp=sharing)](https://drive.google.com/file/d/18oRRWbt39oau1ZaTDemsk36Ih7UZDhxA/view?usp=drive_link))
+[Maquinaria para cortar metal](https://drive.google.com/file/d/12SKJo0uVkXD61e62U94omhQ0wb_c-hVe/view?usp=drive_link)
 
-[Proceso de cortar la madera]([[https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1GMBlOc8xHObY8KD-FCoPkLazmST_wy9Y/view?usp=sharing)](https://drive.google.com/file/d/17a_u_9F8YSRgXJ-ciQY64ZcRcjbkQ666/view?usp=drive_link))
+[Proceso de cortar la madera](https://drive.google.com/file/d/17a_u_9F8YSRgXJ-ciQY64ZcRcjbkQ666/view?usp=drive_link)
 
-[Portacelulares grabado]([[https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1GMBlOc8xHObY8KD-FCoPkLazmST_wy9Y/view?usp=sharing)](https://drive.google.com/file/d/1o_An7_jJ_obeQ1ilSasZbL8gBAh3zrBl/view?usp=drive_link))
+[Portacelulares grabado](https://drive.google.com/file/d/1o_An7_jJ_obeQ1ilSasZbL8gBAh3zrBl/view?usp=drive_link)
 
-[Proceso del grabado]([[[https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link](https://drive.google.com/file/d/1GMBlOc8xHObY8KD-FCoPkLazmST_wy9Y/view?usp=sharing)](https://drive.google.com/file/d/18oRRWbt39oau1ZaTDemsk36Ih7UZDhxA/view?usp=drive_link)](https://drive.google.com/file/d/1fY6nW7cB6tCu08d5RK23-fBsMfy8_Xk5/view?usp=drive_link))
+[Proceso del grabado](https://drive.google.com/file/d/1fY6nW7cB6tCu08d5RK23-fBsMfy8_Xk5/view?usp=drive_link)
 
 [Evidencia 1](https://drive.google.com/file/d/1Kw0ljyBW1w87cBFTNDm89ND7rAsGjZxF/view?usp=drive_link)
 
