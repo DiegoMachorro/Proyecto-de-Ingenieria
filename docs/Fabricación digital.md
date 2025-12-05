@@ -1,8 +1,8 @@
 # Fabricación Digital
 
-## En este apartado se mostrará todo lo relacionado a este tema, junto con sus respectivas actividades
+En este apartado se mostrará todo lo relacionado a este tema, junto con sus respectivas actividades
 
-### Impresión 3D
+## Impresión 3D
 
 [Máquina de Impresión 3D](https://drive.google.com/file/d/1elvsHZ0XV5xmgEb2ZoP-GKfdN0LrLZ3X/view?usp=drive_link)
 
@@ -21,7 +21,7 @@ tecnología de una IA más avanzada, transformamos esta imagen a un modelo en 3D
 
 [Segunda pieza](https://drive.google.com/file/d/1bwPDdxoSMYWBmFPF1aegMhCltBN7MeVx/view?usp=drive_link)
 
-### Escaneo 3D
+## Escaneo 3D
 
 - Durante otra clase, se nos dió una introducción al escaneo 3D. Este se trata de una tecnología que permite capturar la forma y las dimensiones exactas de un objeto o persona
 para crear un modelo digital tridimensional. A través de sensores láser, cámaras o luz estructurada, el escaneo 3D
@@ -33,7 +33,7 @@ anatómicos personalizados, en patrimonio cultural para preservar obras y monume
 - La importancia del escaneo 3D radica en su capacidad para digitalizar el mundo físico, permitiendo analizar, modificar y reproducir objetos con gran exactitud.
 Combinado con la impresión 3D, abre un nuevo horizonte donde lo físico y lo digital se integran, impulsando la innovación, la personalización y la conservación del conocimiento. 
 
-### Corte Láser
+## Corte Láser
 
 Se nos proporcionaron instrucciones e indicaciones para saber utilizar correctamente la máquina de corte láser, de este modo cada quien realizó un ensamble hecho a partir
 de un plano creado previamente en 2D en SolidWorks y guardado en formato DXF
@@ -66,3 +66,17 @@ la pieza.
 [Proceso del grabado](https://drive.google.com/file/d/1fY6nW7cB6tCu08d5RK23-fBsMfy8_Xk5/view?usp=drive_link)
 
 [Resultado final](https://drive.google.com/file/d/177baCpqfkVuFjxwc0Ty9UEdfL0VRFllw/view?usp=drive_link)
+
+## Router
+
+- Una máquina router CNC (Control Numérico por Computadora) es un dispositivo automatizado que utiliza un sistema de coordenadas programado para cortar, grabar o fresar materiales. A diferencia del trabajo manual, el router CNC sigue instrucciones digitales exactas, lo que garantiza uniformidad y repetibilidad en cada pieza fabricada.
+  
+- Estas máquinas trabajan principalmente con materiales como madera, MDF, acrílico, PVC, aluminio y otros metales no ferrosos, lo que las convierte en una herramienta flexible para múltiples sectores. El proceso comienza con un diseño realizado en software CAD/CAM, que se traduce en un código de control numérico. El router interpreta ese código y ejecuta movimientos precisos de la herramienta de corte sobre el material.
+
+- La intención de abordar esto en clase era realizar una tabla diseñada por nosotros en SolidWorks para poder cortarla en una máquina router, sin embargo, esto no fue posible debido a escacez de tiempo.
+
+[Máquina](https://drive.google.com/file/d/1HES6BieXly3_7zAAv9RojwoMqKq_In_8/view?usp=drive_link)
+
+[Ejemplo de un router funcionando](https://drive.google.com/file/d/1qt8EWzWOqEhRhTTVkU2US9s3y2yD4y22/view?usp=drive_link)
+
+[Tabla](https://drive.google.com/file/d/12ZZ-drlgZCtoQlb7-aOYS64CUryQ1D5l/view?usp=drive_link)
