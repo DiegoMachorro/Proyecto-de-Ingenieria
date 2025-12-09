@@ -31,7 +31,10 @@ registra millones de puntos que conforman una representación precisa de la real
 anatómicos personalizados, en patrimonio cultural para preservar obras y monumentos, y en entretenimiento para crear personajes y efectos visuales realistas.
 
 - La importancia del escaneo 3D radica en su capacidad para digitalizar el mundo físico, permitiendo analizar, modificar y reproducir objetos con gran exactitud.
-Combinado con la impresión 3D, abre un nuevo horizonte donde lo físico y lo digital se integran, impulsando la innovación, la personalización y la conservación del conocimiento. 
+Combinado con la impresión 3D, abre un nuevo horizonte donde lo físico y lo digital se integran, impulsando la innovación, la personalización y la conservación del conocimiento.
+
+[Evidencia](https://drive.google.com/file/d/1y8nsu7KxxQ5e155vfIyXVDwx-C-VsBuj/view?usp=drive_link)
+
 
 ## Corte Láser
 
@@ -50,8 +53,6 @@ Utilizando esta máquina, se realizaron estas dos actividades:
 
 - Requería mayor potencia y menor velocidad, de tal manera que el láser fuera capaz de penetrar correctamente y cada figura fuera correctamente separada para
 más tarde ser ensamblada con las demás.
-
-<img src="recursos/imgs/Barco corte láser.jpeg" alt="Diagrama del sistema" width="420">
 
 [Máquina de corte láser](https://drive.google.com/file/d/1BClgl9kDMbyKx0Dt_QMupxRSqQFuPCEq/view?usp=sharing)
 
@@ -80,3 +81,5 @@ la pieza.
 [Ejemplo de un router funcionando](https://drive.google.com/file/d/1qt8EWzWOqEhRhTTVkU2US9s3y2yD4y22/view?usp=drive_link)
 
 [Tabla](https://drive.google.com/file/d/12ZZ-drlgZCtoQlb7-aOYS64CUryQ1D5l/view?usp=drive_link)
+
+[Molde para resina](https://drive.google.com/file/d/1-l8qh-63tg_DhUCZCQyHxjYO9W4eYTCA/view?usp=drive_link)
